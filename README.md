@@ -8,10 +8,10 @@ This data has been collected and studied to understand the sampling frequency of
 2023-10-01 to 2023-10-30
 
 
-##Geographic location of data collection: 
+## Geographic location of data collection: 
 Latitude: 28°32'37.6"N, Longitude:77°11'31.2"E
 
-##Location: Central Workshop, Indian Institute of Technology Delhi, Hauz Khas.
+## Location: Central Workshop, Indian Institute of Technology Delhi, Hauz Khas.
 City: New Delhi, Delhi, India.
 
 ## DATA & FILE OVERVIEW
